@@ -1,8 +1,10 @@
 **Snake Game**
+
 A Python-based Snake game implemented with Pygame, featuring both AI and manual gameplay modes. This project is part of a group assignment to develop a game incorporating pathfinding algorithms, specifically Breadth-First Search (BFS), for academic evaluation. The game includes a user-friendly interface, real-time statistics, and performance analysis, developed incrementally to demonstrate individual contribution.
 Features
 
 **Gameplay Modes:**
+
 AI Mode: Uses BFS for pathfinding to the apple, with virtual snake simulation to avoid collisions.
 Manual Mode: Player-controlled movement using arrow keys or WASD.
 
@@ -14,12 +16,14 @@ Performance Analysis: Comprehensive metrics including win rate, average score, a
 
 **Project Structure**
 
+
 setting.py: Contains game constants (dimensions, colors, settings) and pathfinding utilities (grid, neighbors, distance).
 snake.py: Implements the Square and Snake classes for game logic, including movement, AI pathfinding, and apple handling.
 play.py: Manages the game loop, UI (menu, buttons, stats display), and performance analysis via SnakeGame, Button, GameStats, and GameAnalyzer classes.
 report.tex: LaTeX report documenting design, implementation, analysis, and conclusion for academic evaluation.
 
 **Setup Instructions**
+
 
 Prerequisites:
 Python 3.6+
