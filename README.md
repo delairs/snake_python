@@ -1,4 +1,5 @@
-Snake Game
+**Snake Game
+**
 
 A Python-based Snake game implemented with Pygame, featuring both AI and manual gameplay modes. This project is part of a group assignment to develop a game incorporating pathfinding algorithms, specifically Breadth-First Search (BFS), for academic evaluation. The game includes a user-friendly interface, real-time statistics, and performance analysis, developed incrementally to demonstrate individual contribution.
 
@@ -8,8 +9,8 @@ Features
 
 
 
-Gameplay Modes:
-
+**Gameplay Modes:
+**
 
 
 
@@ -51,3 +52,54 @@ snake.py: Implements the Square and Snake classes for game logic, including move
 
 
 play.py: Manages the game loop, UI (menu, buttons, stats display), and performance analysis via SnakeGame, Button, GameStats, and GameAnalyzer classes.
+
+
+
+
+
+
+
+
+
+**Prerequisites:**
+
+
+
+
+
+Python 3.6+
+
+
+
+Pygame library: Install with pip install pygame
+
+
+
+Clone the Repository:
+
+git clone https://github.com/your-username/snake-game.git
+cd snake-game
+
+
+
+Run the Game:
+
+python play.py
+
+
+
+Controls:
+
+
+
+
+
+Manual Mode: Use arrow keys or WASD to move the snake.
+
+
+
+Menu: Click buttons to select mode, view stats, or quit.
+
+
+
+Game: Click "Pause/Resume" to pause, "Restart" to reset, or "Menu" to return.
