@@ -1,3 +1,6 @@
+VIDEO DEMO:https://youtu.be/wnbWwusqnWw
+
+
 **Snake Game**
 
 A Python-based Snake game implemented with Pygame, featuring both AI and manual gameplay modes. This project is part of a group assignment to develop a game incorporating pathfinding algorithms, specifically Breadth-First Search (BFS), for academic evaluation. The game includes a user-friendly interface, real-time statistics, and performance analysis, developed incrementally to demonstrate individual contribution.
